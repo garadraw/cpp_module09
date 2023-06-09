@@ -4,7 +4,7 @@ int main (int argc, char** argv)
 {
 	if (argc != 2)
 	{
-		std::cerr << "incorrect number of input parameters\n";
+		std::cerr << "Incorrect number of Input Parameters\n";
 		return (1);
 	}
 	
